@@ -61,6 +61,7 @@ Para adicionar una librería personalizada al repositorio local de maven puede e
 ```
 $ mvn install:install-file -Dfile=aerodescuentos-1.0.0.jar -DgroupId=edu.eci.cvds -DartifactId=aerodescuentos -Dversion=1.0.0 -Dpackaging=jar
 ```
+![Capture](https://user-images.githubusercontent.com/79550161/153347962-d9c0b205-02a0-4adc-8820-aa84577210b4.JPG)
 
 
 
