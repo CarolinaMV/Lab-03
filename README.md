@@ -23,3 +23,8 @@ mvn archetype:generate -DgroupId=edu.eci.cvds -DartifactId=ClasesEquivalencia -D
 
 * Busque el comando requerido para ejecutar las pruebas unitarias de un proyecto desde Maven y ejecútelo sobre el proyecto. Se debe ejecutar la clase AppTest con resultado         exitoso.
 
+![image](https://user-images.githubusercontent.com/98135902/153322067-579accca-1af9-432e-a266-a84b575d9b29.png)
+
+## EJERCICIO “REGISTRADURÍA”
+
+
