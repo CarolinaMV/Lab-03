@@ -47,6 +47,27 @@ public class RegistryTest {
         RegisterResult result = registry.registerVoter(person);
         Assert.assertEquals(RegisterResult.DEAD, result);
     }
+    
+    @Test
+    public void validateRegistryDuplicated(){
+        Person person = new Person();
+        person.setName("Nicole");
+        person.setId(12945);
+        person.setAge(22);
+        person.setGender(Gender.FEMALE);
+        person.setAlive(false);
+        
+        Person person2 = new Person();
+        person2.setName("Caroline");
+        person2.setId(12945);
+        person2.setAge(22);
+        person2.setGender(Gender.FEMALE);
+        person2.setAlive(false);        
+
+        RegisterResult result = registry.registerVoter(person2);
+        Assert.assertEquals(RegisterResult.DEAD, result);
+    }
+    
 
     @Test
     public void validateRegistryValid() {
