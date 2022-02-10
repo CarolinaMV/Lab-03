@@ -27,4 +27,13 @@ mvn archetype:generate -Dfilter=maven-archetype-quickstart
 
 ## EJERCICIO “REGISTRADURÍA”
 
+### HACER EL ESQUELETO DE LA APLICACION
+
+![image](https://user-images.githubusercontent.com/98135902/153326300-4d0a316e-cd4c-403f-abd7-b7ac0f17fc44.png)
+
+### EJECUTAR LAS PRUEBAS
+
+![image](https://user-images.githubusercontent.com/98135902/153326425-5b877816-1c64-4141-abc0-fd289360551f.png)
+
+
 
