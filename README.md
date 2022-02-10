@@ -39,6 +39,23 @@ mvn archetype:generate -Dfilter=maven-archetype-quickstart
 
 
 
+## EJERCICIO "DESCUENTO DE TARIFAS"
+
+### Para realizar de forma correcta el diseño de sus pruebas responda las preguntas que se encuentran en el documento.
+
+asd
+
+### IMPLEMENTACIÓN DE LAS PRUEBAS 
+
+* Descargue el archivo aerodescuentos.jar y adicione esta nueva dependencia en el archivo pom.xml de su proyecto.
+Para adicionar una librería personalizada al repositorio local de maven puede ejecutar el siguiente comando.
+```
+$ mvn install:install-file -Dfile=aerodescuentos-1.0.0.jar -DgroupId=edu.eci.cvds -DartifactId=aerodescuentos -Dversion=1.0.0 -Dpackaging=jar
+```
+
+
+
+
 
 
 
