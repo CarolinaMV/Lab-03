@@ -37,6 +37,9 @@ mvn archetype:generate -Dfilter=maven-archetype-quickstart
 
 ### Finalizar ejercicio
 
+![image](https://user-images.githubusercontent.com/98135902/153333903-1382a3af-0c71-4c43-a09f-5ce585e53407.png)
+
+
 
 
 
