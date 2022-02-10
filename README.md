@@ -50,7 +50,7 @@ mvn archetype:generate -Dfilter=maven-archetype-quickstart
 
 ### Para realizar de forma correcta el diseño de sus pruebas responda las preguntas que se encuentran en el documento.
 
-asd
+[documento](https://github.com/CarolinaMV/Lab-03/blob/master/EjercicioClasesDeEquivalencia.pdf)
 
 ### IMPLEMENTACIÓN DE LAS PRUEBAS 
 
