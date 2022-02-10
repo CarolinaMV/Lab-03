@@ -37,6 +37,13 @@ mvn archetype:generate -Dfilter=maven-archetype-quickstart
 
 ### Finalizar ejercicio
 
+#### Casos de equivalencia
+
+* UNDRERAGE: Cuando la edad de una persona se encuentra entre 0 a 18 años.
+* INVALID_AGE: La edad de una persona no puede ser menor a 0 (Un número negativo).
+* DEAD: La persona esta muerta.
+* VALID: Cuando una persona no incumple con ninguna de las condiciones.
+* DUPLICATED: Que el numero de ID no se repita (Que ya no se encuentre registrado).
 
 
 ## EJERCICIO "DESCUENTO DE TARIFAS"
