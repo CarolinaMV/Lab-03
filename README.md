@@ -33,7 +33,6 @@ mvn archetype:generate -Dfilter=maven-archetype-quickstart
 
 ### EJECUTAR LAS PRUEBAS
 
-![image](https://user-images.githubusercontent.com/98135902/153326425-5b877816-1c64-4141-abc0-fd289360551f.png)
 
 
 
