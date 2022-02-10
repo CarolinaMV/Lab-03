@@ -45,12 +45,14 @@ mvn archetype:generate -Dfilter=maven-archetype-quickstart
 * VALID: Cuando una persona no incumple con ninguna de las condiciones.
 * DUPLICATED: Que el numero de ID no se repita (Que ya no se encuentre registrado).
 
+![image](https://user-images.githubusercontent.com/98135902/153344733-1ba4191f-d11d-4d19-98a4-296fbbb9eed5.png)
+
 
 ## EJERCICIO "DESCUENTO DE TARIFAS"
 
 ### Para realizar de forma correcta el diseño de sus pruebas responda las preguntas que se encuentran en el documento.
 
-asd
+[documento](https://github.com/CarolinaMV/Lab-03/blob/master/EjercicioClasesDeEquivalencia.pdf)
 
 ### IMPLEMENTACIÓN DE LAS PRUEBAS 
 
