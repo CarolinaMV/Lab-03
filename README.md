@@ -19,11 +19,11 @@ mvn archetype:generate -Dfilter=maven-archetype-quickstart
 
 * Ejecute los comandos necesarios de Maven, para compilar el proyecto y verificar que el proyecto se creó correctamente y los cambios realizados al archivo pom no generan inconvenientes.
 
-![image](https://user-images.githubusercontent.com/98135902/153321475-a87925d9-a093-45ba-bb4a-196f8da0bdf7.png)
+![image](https://user-images.githubusercontent.com/98135902/153324995-694bf536-da60-4e3a-ae4f-1657735feb9f.png)
 
 * Busque el comando requerido para ejecutar las pruebas unitarias de un proyecto desde Maven y ejecútelo sobre el proyecto. Se debe ejecutar la clase AppTest con resultado         exitoso.
 
-![image](https://user-images.githubusercontent.com/98135902/153322067-579accca-1af9-432e-a266-a84b575d9b29.png)
+![image](https://user-images.githubusercontent.com/98135902/153325103-ec01f985-bb56-4277-b8e6-3fe4dbcf974c.png)
 
 ## EJERCICIO “REGISTRADURÍA”
 
