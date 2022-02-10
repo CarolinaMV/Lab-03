@@ -6,13 +6,8 @@ package edu.eci.cvds;
  */
 public class App 
 {
-    public static void main(String[] args )
+    public static void main( String[] args )
     {
-        if(args.length == 0){
-            System.out.println("Hello World!");
-        }
-        else{
-            System.out.println("Hello " + String.join(" ",args) + "!");
-        }
+        System.out.println( "Hello World!" );
     }
 }
